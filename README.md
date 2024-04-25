@@ -19,7 +19,7 @@
 - 💬 Ask me about **Linux, Bash**
 
 
-#### Some of my best works
+#### SOME OF MY BEST WORKS
 
 <div align="center>
   
@@ -28,7 +28,7 @@
 </div>
 
 <!--
-#### Read my blogs
+#### READ MY BLOGS
 1. **[🔥 Creative Tim Courses](https://www.creative-tim.com/blog/creative-tim/new-learning-resources-web-designers/)** <br> *New Learning Platform for Web Designers & Devs*
 2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
 -->
@@ -36,7 +36,7 @@
 
 
 
-#### My area of expertise / interests
+#### MY AREA OF EXPERTISE / INTERESTS
 
 <div align="left"
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
