@@ -37,7 +37,7 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
@@ -48,15 +48,15 @@
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
-
+---
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=muktadirmaashif&layout=compact&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=muktadirmaashif&layout=compact&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktadirmaashif&layout=compact&theme=cobalt&hide_border=true" />
+</div>
 
 ---
-<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2024 Muktadir M Aashif, all rights reserved. </p>
 <p align="center">
-https://www.creative-tim.com
 </p>
