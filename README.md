@@ -23,9 +23,9 @@
 
 <div align="left">
   
-<img width="272" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muktadirmaashif&repo=neovim-config&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="272" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muktadirmaashif&repo=solidity-guessing-game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="272" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muktadirmaashif&repo=bengali-review-analyzer&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="272" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muktadirmaashif&repo=neovim-config&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">  
+<img width="272" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muktadirmaashif&repo=solidity-guessing-game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+<img width="272" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muktadirmaashif&repo=bengali-review-analyzer&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
 </div>
 
 <!--
