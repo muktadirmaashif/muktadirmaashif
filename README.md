@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Ansible, Docker**
 
-- 👯 I’m looking to collaborate on **opensource automation projects**
+- 👯 I’m looking to collaborate on **open source automation projects**
 
 - 💬 Ask me about **Linux, Bash**
 
