@@ -35,6 +35,12 @@
 -->
 
 
+#### READ MY GISTS 
+1. **[🔥 My vimrc](https://gist.github.com/muktadirmaashif/7056adde3dcc3d29b24c353c49dad3e7.js")** <br> *My go to .vimrc including vim configurations and shortcuts*
+<!--2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*-->
+
+
+
 
 
 #### MY AREA OF EXPERTISE / INTERESTS
