@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, It's Muktadir</h2>
-<h3 align="center">A reader who loves his coffee black. Loves to ride on single speed, Becoming DevOps Engineer</h3>
+<h3 align="center">A reader who loves his coffee black, loves to ride on single speed. Becoming DevOps Engineer</h3>
 
 <div align="center">
   
