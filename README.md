@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muktadir</h1>
+<div align="center">
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/muktadirmaashif) 
+[<img alt="Github" src="https://img.shields.io/badge/linkedin-teal.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/itsmuktadir)
+[<img alt="Github" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://twitter.com/CreativeTim)\
+[<img alt="Github" src="https://img.shields.io/badge/dev.to-black.svg?&style=for-the-badge&logo=dev&logoColor=white" />](https://dev.to/muktadirmaashif)
+</div>
+
 <h3 align="center">A reader who loves his coffee black. Loves to ride on single speed, Becoming DevOps Engineer</h3>
 
 
@@ -6,30 +14,53 @@
 
 - 👯 I’m looking to collaborate on **opensource automation projects**
 
-- 👨‍💻 All of my projects are available at [muktadirmaashif.github.io](muktadirmaashif.github.io)
-
-- 📝 I regularly write articles on [https://dev.to/muktadirmaashif](https://dev.to/muktadirmaashif)
+- 👨‍💻 Check out my portfolio [here](muktadirmaashif.github.io)
 
 - 💬 Ask me about **Linux, Bash**
 
-- 📫 How to reach me **muktadirmaashif@gmail.com**
+---
+#### Some of my best works
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muktadirmaashif&repo=neovim-config&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muktadirmaashif&repo=solidity-guessing-game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muktadirmaashif&repo=bengali-review-analyzer&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/muktadirmaashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muktadirmaashif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsmuktadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmuktadir" height="30" width="40" /></a>
-<a href="https://fb.com/itsmuktadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsmuktadir" height="30" width="40" /></a>
+
+#### Read my blogs:
+
+
+1. **[🔥 Creative Tim Courses](https://www.creative-tim.com/blog/creative-tim/new-learning-resources-web-designers/)** <br> *New Learning Platform for Web Designers & Devs*
+2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
+
+- 📝 Follow my blog on [here](dev.to/muktadirmaashif)
+
+
+---
+
+<h4 align="left">Languages and Tools:</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-darkred?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/graphana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ansible-white?style=for-the-badge&logo=ansible&logoColor=black" />
+  <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muktadirmaashif&show_icons=true&locale=en&layout=compact" alt="muktadirmaashif" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muktadirmaashif&show_icons=true&locale=en" alt="muktadirmaashif" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muktadirmaashif&" alt="muktadirmaashif" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+
+
+---
+<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+https://www.creative-tim.com
+</p>
