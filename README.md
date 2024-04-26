@@ -45,8 +45,9 @@
 
 #### MY AREA OF EXPERTISE / INTERESTS
 
-<div align="left"
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/git-darkred?style=for-the-badge&logo=git&logoColor=white" />
