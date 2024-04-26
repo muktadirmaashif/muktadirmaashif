@@ -36,7 +36,10 @@
 
 
 #### READ MY GISTS 
-* **[🔥 My vimrc](https://gist.github.com/muktadirmaashif/7056adde3dcc3d29b24c353c49dad3e7)** <br> *My go to .vimrc including vim configurations and shortcuts*
+<!--* **[🔥 My vimrc](https://gist.github.com/muktadirmaashif/7056adde3dcc3d29b24c353c49dad3e7)** <br> *My go to .vimrc including vim configurations and shortcuts*
+-->
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7056adde3dcc3d29b24c353c49dad3e7&show_icons=true&theme=vue-dark&layout=compact&hide_border=true)](https://gist.github.com/muktadirmaashif/7056adde3dcc3d29b24c353c49dad3e7)
 <!--2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*-->
 
 
