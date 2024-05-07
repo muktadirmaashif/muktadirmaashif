@@ -3,6 +3,7 @@
 
 <div align="center">
   
+[<img alt="Github" src="https://img.shields.io/badge/leetcode-chocolate.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/muktadirmaashif)
 [<img alt="Github" src="https://img.shields.io/badge/portfolio-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/muktadirmaashif) 
 [<img alt="Github" src="https://img.shields.io/badge/linkedin-teal.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/itsmuktadir)
 [<img alt="Github" src="https://img.shields.io/badge/instagram-beige.svg?&style=for-the-badge&logo=instagram&logoColor=red" />](https://instagram.com/damien_karras)
